@@ -1,0 +1,17 @@
+{
+  "name": "Banheiro",
+  "colors": {
+    "bg": "#FFFFFF",
+    "surface": "#FFFFFF",
+    "soft": "#EAF3EE",
+    "ink": "#102A23",
+    "ink-muted": "#4A6359",
+    "primary": "#14463A",
+    "secondary": "#1E7A5E",
+    "accent": "#2BB673",
+    "accent-ink": "#052016",
+    "accent-strong": "#0E6B4A",
+    "border": "#D8E6DF"
+  },
+  "fonts": { "display": "'Poppins', sans-serif", "body": "'Poppins', sans-serif" }
+}

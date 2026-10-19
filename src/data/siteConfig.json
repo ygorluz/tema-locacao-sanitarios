@@ -1,0 +1,25 @@
+{
+  "name": "SP Banheiros Químicos",
+  "segmento": "Banheiro Químico",
+  "schemaType": "LocalBusiness",
+  "postUrlPrefix": "",
+  "description": "Locação de banheiros químicos em São Paulo: aluguel para obras e eventos, modelos standard, de luxo, acessível (PNE), com pia, mictório e pia portáteis, cabine de chuveiro e higienização. Entrega, retirada e limpeza inclusas. Peça seu orçamento.",
+  "ctaLabel": "Solicitar orçamento",
+  "phone": "(11) 0000-0000",
+  "whatsapp": "5511000000000",
+  "email": "contato@spbanheirosquimicos.com.br",
+  "address": "São Paulo — SP",
+  "hours": "Seg a Sex, 7h às 18h • Sáb, 8h às 12h",
+  "social": { "instagram": "#", "facebook": "#", "youtube": "#" },
+  "nap": {
+    "streetAddress": "Rua Exemplo, 0000 — galpão 00",
+    "addressLocality": "São Paulo",
+    "addressRegion": "SP",
+    "postalCode": "00000-000",
+    "country": "BR",
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "priceRange": "$$",
+    "mapEmbed": "https://www.google.com/maps?q=São+Paulo+SP&output=embed"
+  }
+}

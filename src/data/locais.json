@@ -1,0 +1,134 @@
+[
+  {
+    "slug": "santo-amaro",
+    "nome": "Santo Amaro",
+    "prep": "em",
+    "regiao": "Zona Sul de São Paulo",
+    "bairrosVizinhos": [
+      "Brooklin",
+      "Campo Belo",
+      "Jurubatuba"
+    ],
+    "referenciaLocal": "Atendemos Santo Amaro e toda a Zona Sul, das obras e galpões do entorno da Marginal Pinheiros aos eventos em chácaras e espaços da região, com entrega e higienização próprias.",
+    "faq": [
+      {
+        "q": "Quanto tempo leva para entregar um banheiro químico em Santo Amaro?",
+        "a": "Para obras e eventos em Santo Amaro e na Zona Sul a entrega costuma ser em poucos dias úteis, e em casos urgentes conseguimos agilizar conforme a disponibilidade da frota."
+      },
+      {
+        "q": "Vocês fazem a higienização durante o contrato na região?",
+        "a": "Sim. Temos rota de sucção a vácuo na Zona Sul que esvazia o tanque, lava a cabine e repõe o produto na frequência contratada."
+      }
+    ]
+  },
+  {
+    "slug": "pinheiros",
+    "nome": "Pinheiros",
+    "prep": "em",
+    "regiao": "Zona Oeste de São Paulo",
+    "bairrosVizinhos": [
+      "Vila Madalena",
+      "Itaim Bibi",
+      "Faria Lima"
+    ],
+    "referenciaLocal": "Atendemos Pinheiros e a Zona Oeste, das reformas e obras de prédios comerciais aos eventos culturais e gastronômicos da região, com cabines limpas e bem apresentadas.",
+    "faq": [
+      {
+        "q": "Vocês alugam banheiro químico de luxo para eventos em Pinheiros?",
+        "a": "Sim. Para eventos e casamentos em Pinheiros oferecemos a cabine de luxo, com pia, espelho e melhor acabamento, e também o modelo standard para o público geral."
+      },
+      {
+        "q": "Conseguem posicionar a cabine em rua movimentada?",
+        "a": "Conseguimos. Avaliamos o ponto de descarga e o acesso do caminhão para posicionar a cabine com segurança, mesmo em vias movimentadas de Pinheiros."
+      }
+    ]
+  },
+  {
+    "slug": "mooca",
+    "nome": "Mooca",
+    "prep": "na",
+    "regiao": "Zona Leste de São Paulo",
+    "bairrosVizinhos": [
+      "Brás",
+      "Tatuapé",
+      "Belém"
+    ],
+    "referenciaLocal": "Levamos nossos banheiros químicos à Mooca e à Zona Leste, atendendo canteiros de obra, galpões e eventos de bairro com entrega pontual e manutenção programada.",
+    "faq": [
+      {
+        "q": "Atendem canteiros de obra na Mooca dentro da NR-18?",
+        "a": "Sim. Dimensionamos a quantidade de cabines pelo efetivo da obra e mantemos a higienização para atender as condições sanitárias exigidas pela NR-18."
+      },
+      {
+        "q": "Tem cabine acessível para eventos na região?",
+        "a": "Tem. Oferecemos a cabine acessível (PNE), mais ampla e com barras de apoio, para obras e eventos abertos ao público na Mooca."
+      }
+    ]
+  },
+  {
+    "slug": "guarulhos",
+    "nome": "Guarulhos",
+    "prep": "em",
+    "regiao": "Grande São Paulo",
+    "bairrosVizinhos": [
+      "Bonsucesso",
+      "Cumbica",
+      "Pimentas"
+    ],
+    "referenciaLocal": "Atendemos Guarulhos e a Grande São Paulo, das grandes obras industriais e logísticas da região de Cumbica aos eventos e festas de bairro, com frota própria.",
+    "faq": [
+      {
+        "q": "Vocês atendem grandes obras industriais em Guarulhos?",
+        "a": "Sim. Para grandes canteiros em Guarulhos montamos um conjunto de cabines dimensionado pelo efetivo, com rota de higienização programada para todo o período da obra."
+      },
+      {
+        "q": "Há custo de deslocamento para Guarulhos?",
+        "a": "O orçamento já considera a logística de entrega e retirada na região; informe o endereço da obra ou do evento que enviamos o valor fechado."
+      }
+    ]
+  },
+  {
+    "slug": "osasco",
+    "nome": "Osasco",
+    "prep": "em",
+    "regiao": "Grande São Paulo",
+    "bairrosVizinhos": [
+      "Carapicuíba",
+      "Barueri",
+      "Alphaville"
+    ],
+    "referenciaLocal": "Atendemos Osasco e o entorno de Alphaville e Barueri, das obras de condomínios e centros empresariais aos eventos corporativos, com cabines standard e de luxo.",
+    "faq": [
+      {
+        "q": "Alugam banheiro com pia para eventos corporativos em Osasco?",
+        "a": "Alugamos. Para eventos de empresa em Osasco e Alphaville indicamos a cabine com pia ou o modelo de luxo, que oferecem mais conforto e higiene ao convidado."
+      },
+      {
+        "q": "Fazem locação por poucos dias?",
+        "a": "Fazemos. Atendemos tanto locações longas de obra quanto eventos de um ou poucos dias, com entrega e retirada ajustadas à sua programação."
+      }
+    ]
+  },
+  {
+    "slug": "santana",
+    "nome": "Santana",
+    "prep": "em",
+    "regiao": "Zona Norte de São Paulo",
+    "bairrosVizinhos": [
+      "Tucuruvi",
+      "Casa Verde",
+      "Vila Guilherme"
+    ],
+    "referenciaLocal": "Atendemos Santana e a Zona Norte, das obras residenciais e comerciais aos eventos próximos ao Campo de Marte e ao Anhembi, com entrega ágil e higienização inclusa.",
+    "faq": [
+      {
+        "q": "Conseguem atender eventos grandes na Zona Norte?",
+        "a": "Conseguimos. Para eventos de grande público em Santana combinamos cabines standard, de luxo, acessível e mictórios portáteis para evitar fila nos horários de pico."
+      },
+      {
+        "q": "Vocês repõem papel e produto durante o evento?",
+        "a": "Sim. Durante o contrato repomos papel, sabonete, água da pia e o produto químico, além de fazer a sucção conforme o volume de uso."
+      }
+    ]
+  }
+]

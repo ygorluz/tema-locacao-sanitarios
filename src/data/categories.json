@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Banheiro químico para obras",
+    "slug": "obras"
+  },
+  {
+    "name": "Banheiro químico para eventos",
+    "slug": "eventos"
+  },
+  {
+    "name": "Modelos e tipos",
+    "slug": "modelos-e-tipos"
+  },
+  {
+    "name": "Higienização e manutenção",
+    "slug": "higienizacao-e-manutencao"
+  },
+  {
+    "name": "Dicas e normas",
+    "slug": "dicas-e-normas"
+  }
+]

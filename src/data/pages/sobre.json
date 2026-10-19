@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "Sobre a SP Banheiros Químicos",
+    "description": "Mais de 10 anos locando banheiros químicos para obras e eventos em São Paulo e região. Conheça a frota própria, a equipe de higienização e os valores da empresa."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Sobre a empresa",
+      "title": "Locação de banheiro químico com quem entende de logística.",
+      "lead": "Mais de uma década atendendo obras, eventos e indústrias em toda a Grande São Paulo.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Sobre", "href": "/sobre" } ]
+    }},
+    { "type": "sobre", "props": {
+      "image": "/images/about.jpg",
+      "badge": "10+ anos de experiência",
+      "title": "Banheiro químico limpo e na hora certa.",
+      "lead": "Atendemos desde pequenas reformas até grandes canteiros e eventos, sempre com frota própria e higienização inclusa.",
+      "benefits": [
+        "Frota e equipe de logística próprias",
+        "Modelos para obra, evento e área VIP",
+        "Higienização com sucção a vácuo",
+        "Orçamento rápido para SP e região"
+      ],
+      "cta": { "label": "Solicitar orçamento", "href": "#contato" }
+    }},
+    { "type": "numeros", "props": {
+      "stats": [
+        { "value": "10+", "label": "Anos no mercado" },
+        { "value": "5mil+", "label": "Locações entregues" },
+        { "value": "24h", "label": "Prazo médio de entrega" },
+        { "value": "98%", "label": "Clientes satisfeitos" }
+      ]
+    }},
+    { "type": "comoFunciona", "props": {
+      "eyebrow": "Como funciona",
+      "title": "Três etapas do orçamento à entrega.",
+      "steps": [
+        { "n": "01", "title": "Orçamento", "text": "Conte a data, o local e o número de pessoas pelo WhatsApp." },
+        { "n": "02", "title": "Configuração", "text": "Definimos os modelos e a quantidade ideal de cabines." },
+        { "n": "03", "title": "Entrega", "text": "Levamos, posicionamos e cuidamos da higienização." }
+      ]
+    }},
+    { "type": "depoimentos", "props": {
+      "eyebrow": "Depoimentos",
+      "title": "O que nossos clientes dizem.",
+      "rating": { "score": "4,9", "label": "média de satisfação" },
+      "items": [
+        { "quote": "Entregaram os banheiros da obra no prazo e a higienização nunca falhou.", "name": "Roberto L.", "role": "Construtora — Guarulhos" },
+        { "quote": "Aluguei cabines de luxo para o casamento e os convidados elogiaram.", "name": "Mariana D.", "role": "Evento — Pinheiros" },
+        { "quote": "Mediram a necessidade e entregaram na data combinada. Sem estresse.", "name": "Thomas L.", "role": "Obra — Osasco" }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Solicite seu orçamento sem compromisso.",
+      "services": ["Banheiro químico para obras", "Banheiro químico para eventos", "Banheiro químico de luxo (VIP)", "Banheiro químico acessível (PNE)", "Banheiro químico com pia", "Pia portátil (lavatório)", "Mictório portátil", "Cabine de chuveiro / vestiário", "Limpeza e higienização"]
+    }}
+  ]
+}

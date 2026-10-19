@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Solicite seu orçamento — SP Banheiros Químicos",
+    "description": "Solicite orçamento de banheiro químico para obra ou evento em São Paulo. Conte a data, o local e o número de pessoas que respondemos rápido."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Solicite seu orçamento",
+      "title": "Orçamento sem compromisso em três etapas simples.",
+      "lead": "Informe o serviço e seus dados — montamos a configuração ideal de cabines.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Orçamento", "href": "/agendar" } ]
+    }},
+    { "type": "comoFunciona", "props": {
+      "eyebrow": "Como funciona",
+      "title": "Três etapas do orçamento à entrega.",
+      "steps": [
+        { "n": "01", "title": "Orçamento", "text": "Conte a data, o local e o número de pessoas pelo WhatsApp." },
+        { "n": "02", "title": "Configuração", "text": "Definimos os modelos e a quantidade ideal de cabines." },
+        { "n": "03", "title": "Entrega", "text": "Levamos, posicionamos e cuidamos da higienização." }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Solicite agora",
+      "title": "Preencha e receba seu orçamento.",
+      "services": ["Banheiro químico para obras", "Banheiro químico para eventos", "Banheiro químico de luxo (VIP)", "Banheiro químico acessível (PNE)", "Banheiro químico com pia", "Pia portátil (lavatório)", "Mictório portátil", "Cabine de chuveiro / vestiário", "Limpeza e higienização"]
+    }}
+  ]
+}

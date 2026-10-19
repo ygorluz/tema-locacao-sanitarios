@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "title": "Serviços de banheiro químico — SP Banheiros Químicos",
+    "description": "Aluguel de banheiro químico para obras e eventos em São Paulo: standard, de luxo, acessível, com pia, mictório, pia portátil, cabine de chuveiro e higienização. Peça seu orçamento."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Nossos serviços",
+      "title": "Banheiros químicos para cada tipo de obra e evento.",
+      "lead": "Do canteiro ao casamento, do mictório de show à cabine de chuveiro — entregamos, higienizamos e retiramos.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Serviços", "href": "/servicos" } ]
+    }},
+    { "type": "servicos", "props": {
+      "fromData": true,
+      "cta": { "label": "Solicitar orçamento", "href": "/agendar" }
+    }},
+    { "type": "porqueEscolher", "props": {
+      "eyebrow": "Por que nos escolher",
+      "title": "Logística própria e higienização que não falha.",
+      "image": "/images/why.jpg",
+      "features": [
+        { "title": "Equipe experiente", "text": "Time treinado em logística e higienização." },
+        { "title": "Dimensionamento correto", "text": "Quantidade de cabines certa para o seu uso." },
+        { "title": "Orçamento sem compromisso", "text": "Resposta rápida pelo WhatsApp ou telefone." },
+        { "title": "Atendimento ágil", "text": "Entrega em toda a Grande São Paulo." },
+        { "title": "Clientes satisfeitos", "text": "Milhares de locações entregues na região." },
+        { "title": "Descarte licenciado", "text": "Resíduo destinado conforme a norma ambiental." }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Solicite seu orçamento sem compromisso.",
+      "services": ["Banheiro químico para obras", "Banheiro químico para eventos", "Banheiro químico de luxo (VIP)", "Banheiro químico acessível (PNE)", "Banheiro químico com pia", "Pia portátil (lavatório)", "Mictório portátil", "Cabine de chuveiro / vestiário", "Limpeza e higienização"]
+    }}
+  ]
+}

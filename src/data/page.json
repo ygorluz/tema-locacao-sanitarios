@@ -1,0 +1,257 @@
+{
+  "blocks": [
+    {
+      "type": "hero",
+      "props": {
+        "eyebrow": "Banheiros químicos em São Paulo",
+        "title": "Aluguel de banheiro químico em São Paulo, com entrega e limpeza inclusas.",
+        "lead": "Banheiros químicos para obra e evento: standard, de luxo, acessível, com pia, mictório e cabine de chuveiro. Entrega, retirada e higienização por nossa conta.",
+        "cta": {
+          "label": "Solicitar orçamento",
+          "href": "#contato"
+        },
+        "rating": {
+          "score": "5,0",
+          "count": "320+ locações"
+        },
+        "doctor": {
+          "name": "Logística própria",
+          "role": "Entrega e higienização",
+          "photo": "/images/doctor.jpg"
+        },
+        "contact": {
+          "phone": "(11) 0000-0000",
+          "hours": "Seg a Sex, 7h às 18h • Sáb até 12h"
+        }
+      }
+    },
+    {
+      "type": "sobre",
+      "props": {
+        "image": "/images/about.jpg",
+        "badge": "+10 anos locando banheiros químicos em SP",
+        "eyebrow": "Sobre a locadora",
+        "title": "Banheiro químico limpo, na hora certa, do primeiro ao último dia.",
+        "lead": "Cuidamos de tudo: entrega, posicionamento, sucção a vácuo e retirada, com frota própria e equipe de higienização.",
+        "benefits": [
+          "Frota e equipe de logística próprias",
+          "Higienização com sucção a vácuo inclusa",
+          "Modelos para obra, evento e área VIP",
+          "Cabine acessível (PNE) e com pia"
+        ],
+        "cta": {
+          "label": "Conheça a empresa",
+          "href": "/sobre"
+        }
+      }
+    },
+    {
+      "type": "servicos",
+      "props": {
+        "eyebrow": "Nossos serviços",
+        "title": "Soluções em banheiros químicos para obra e evento.",
+        "items": [
+          {
+            "title": "Banheiro químico para obras",
+            "text": "Modelo standard para canteiro, dentro da NR-18."
+          },
+          {
+            "title": "Banheiro químico para eventos",
+            "text": "Cabines limpas e bem apresentadas para o público."
+          },
+          {
+            "title": "Banheiro químico de luxo (VIP)",
+            "text": "Com pia e acabamento superior para casamentos."
+          },
+          {
+            "title": "Banheiro acessível (PNE)",
+            "text": "Cabine ampla com barras de apoio, conforme a norma."
+          }
+        ],
+        "cta": {
+          "label": "Ver todos os serviços",
+          "href": "/servicos"
+        }
+      }
+    },
+    {
+      "type": "numeros",
+      "props": {
+        "stats": [
+          {
+            "value": "10+",
+            "label": "Anos de locação"
+          },
+          {
+            "value": "5mil+",
+            "label": "Locações entregues"
+          },
+          {
+            "value": "24h",
+            "label": "Prazo médio de entrega"
+          },
+          {
+            "value": "98%",
+            "label": "Clientes satisfeitos"
+          }
+        ]
+      }
+    },
+    {
+      "type": "porqueEscolher",
+      "props": {
+        "eyebrow": "Por que nos escolher",
+        "title": "Banheiro químico só resolve quando chega limpo e é mantido.",
+        "image": "/images/why.jpg",
+        "features": [
+          {
+            "title": "Entrega pontual",
+            "text": "Posicionamos a cabine no ponto e no horário combinados."
+          },
+          {
+            "title": "Higienização inclusa",
+            "text": "Sucção a vácuo, lavagem e reposição de produto."
+          },
+          {
+            "title": "Orçamento transparente",
+            "text": "Preço fechado, sem surpresa na entrega."
+          },
+          {
+            "title": "Dentro da NR-18",
+            "text": "Dimensionamento correto para o seu canteiro."
+          },
+          {
+            "title": "Frota própria",
+            "text": "Não terceirizamos a logística e a limpeza."
+          },
+          {
+            "title": "Descarte licenciado",
+            "text": "Resíduo destinado conforme as regras ambientais."
+          }
+        ]
+      }
+    },
+    {
+      "type": "comoFunciona",
+      "props": {
+        "eyebrow": "Como funciona",
+        "title": "Três passos do orçamento à entrega.",
+        "steps": [
+          {
+            "n": "01",
+            "title": "Orçamento",
+            "text": "Conte a data, o local e o número de pessoas pelo WhatsApp."
+          },
+          {
+            "n": "02",
+            "title": "Configuração",
+            "text": "Definimos os modelos e a quantidade ideal de cabines."
+          },
+          {
+            "n": "03",
+            "title": "Entrega",
+            "text": "Levamos, posicionamos e cuidamos da higienização."
+          }
+        ]
+      }
+    },
+    {
+      "type": "equipe",
+      "props": {
+        "eyebrow": "Nossa equipe",
+        "title": "Quem cuida da sua locação do início ao fim.",
+        "members": [
+          {
+            "name": "Atendimento",
+            "role": "Orçamento e configuração",
+            "photo": "/images/team-1.jpg"
+          },
+          {
+            "name": "Logística",
+            "role": "Entrega e posicionamento",
+            "photo": "/images/team-2.jpg"
+          },
+          {
+            "name": "Higienização",
+            "role": "Sucção e limpeza",
+            "photo": "/images/team-3.jpg"
+          },
+          {
+            "name": "Manutenção",
+            "role": "Reposição e suporte",
+            "photo": "/images/team-4.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "depoimentos",
+      "props": {
+        "eyebrow": "Depoimentos",
+        "title": "O que nossos clientes dizem.",
+        "rating": {
+          "score": "4,9",
+          "label": "média de avaliações"
+        },
+        "items": [
+          {
+            "quote": "Entregaram os banheiros da obra no prazo e a higienização nunca falhou.",
+            "name": "Roberto L.",
+            "role": "Construtora — Guarulhos"
+          },
+          {
+            "quote": "Aluguei cabines de luxo para o casamento e os convidados elogiaram muito.",
+            "name": "Mariana D.",
+            "role": "Evento — Pinheiros"
+          },
+          {
+            "quote": "Precisei de banheiro químico de última hora e resolveram no mesmo dia.",
+            "name": "Thiago L.",
+            "role": "Obra — Santo Amaro"
+          }
+        ]
+      }
+    },
+    {
+      "type": "novidades",
+      "props": {
+        "eyebrow": "Novidades",
+        "title": "Dicas sobre banheiro químico para obra e evento.",
+        "items": [
+          {
+            "title": "Quantos banheiros químicos a obra precisa",
+            "excerpt": "Como dimensionar pelo efetivo e pela NR-18.",
+            "image": "/images/post-1.jpg",
+            "href": "#"
+          },
+          {
+            "title": "Banheiro químico para evento: standard ou de luxo",
+            "excerpt": "Como combinar os modelos por área do evento.",
+            "image": "/images/post-2.jpg",
+            "href": "#"
+          },
+          {
+            "title": "Higienização: a parte que mais importa",
+            "excerpt": "Frequência ideal de sucção e reposição.",
+            "image": "/images/post-3.jpg",
+            "href": "#"
+          }
+        ]
+      }
+    },
+    {
+      "type": "ctaContato",
+      "props": {
+        "eyebrow": "Fale com a gente",
+        "title": "Solicite seu orçamento de banheiro químico sem compromisso.",
+        "services": [
+          "Banheiro químico para obras",
+          "Banheiro químico para eventos",
+          "Banheiro químico de luxo (VIP)",
+          "Banheiro acessível (PNE)",
+          "Limpeza e higienização"
+        ]
+      }
+    }
+  ]
+}

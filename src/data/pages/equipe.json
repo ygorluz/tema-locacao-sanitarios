@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "title": "Nossa equipe — SP Banheiros Químicos",
+    "description": "Equipe de atendimento, logística e higienização que cuida da sua locação de banheiro químico em São Paulo do início ao fim."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Nossa equipe",
+      "title": "Quem cuida da sua locação do início ao fim.",
+      "lead": "Profissionais de atendimento, logística e higienização para cada etapa do serviço.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Equipe", "href": "/equipe" } ]
+    }},
+    { "type": "equipe", "props": {
+      "members": [
+        { "name": "Carlos Mendes", "role": "Atendimento e orçamento", "photo": "/images/team-1.jpg" },
+        { "name": "Rafael Souza", "role": "Logística e entrega", "photo": "/images/team-2.jpg" },
+        { "name": "Lucas Ferreira", "role": "Higienização e sucção", "photo": "/images/team-3.jpg" },
+        { "name": "André Lima", "role": "Manutenção e suporte", "photo": "/images/team-4.jpg" }
+      ]
+    }},
+    { "type": "numeros", "props": {
+      "stats": [
+        { "value": "10+", "label": "Anos no mercado" },
+        { "value": "5mil+", "label": "Locações entregues" },
+        { "value": "24h", "label": "Prazo médio de entrega" },
+        { "value": "98%", "label": "Clientes satisfeitos" }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Solicite seu orçamento sem compromisso.",
+      "services": ["Banheiro químico para obras", "Banheiro químico para eventos", "Banheiro químico de luxo (VIP)", "Banheiro químico acessível (PNE)", "Banheiro químico com pia", "Pia portátil (lavatório)", "Mictório portátil", "Cabine de chuveiro / vestiário", "Limpeza e higienização"]
+    }}
+  ]
+}

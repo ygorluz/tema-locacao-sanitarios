@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Contato — SP Banheiros Químicos",
+    "description": "Fale com a SP Banheiros Químicos: WhatsApp, e-mail e atendimento em São Paulo. Tire dúvidas ou solicite orçamento de banheiro químico para obra ou evento."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Estamos prontos para atender sua obra ou evento.",
+      "lead": "Mande mensagem, ligue ou chame no WhatsApp — orçamento rápido e sem compromisso.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Contato", "href": "/contato" } ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Envie uma mensagem",
+      "title": "Conte o que você precisa para sua locação.",
+      "services": ["Banheiro químico para obras", "Banheiro químico para eventos", "Banheiro químico de luxo (VIP)", "Banheiro químico acessível (PNE)", "Banheiro químico com pia", "Pia portátil (lavatório)", "Mictório portátil", "Cabine de chuveiro / vestiário", "Limpeza e higienização"]
+    }}
+  ]
+}
